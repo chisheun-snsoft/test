@@ -3,7 +3,17 @@ entries:
   game-chart:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-03-20T09:52:23.844791+08:00"
+    created: "2025-03-20T09:57:55.298214+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 9f867c20c90b4d7b8e6350ef86c939794a79fe25359fac086b746ae983bcdb9d
+    name: game-chart
+    type: application
+    urls:
+    - https://chisheun-snsoft.github.io/test/game-chart-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2025-03-20T09:57:55.297284+08:00"
     description: A Helm chart for Kubernetes
     digest: d9c5900f596406959f84cea4837011c25dfda4c88cee1a9b978ad95b08e9d69e
     name: game-chart
@@ -13,7 +23,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-03-20T09:52:23.843925+08:00"
+    created: "2025-03-20T09:57:55.296703+08:00"
     description: A Helm chart for Kubernetes
     digest: 90b68314563248e17b54ea81314fc96415774143c8018e6233b308715b949dd7
     name: game-chart
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://chisheun-snsoft.github.io/test/game-chart-0.0.1.tgz
     version: 0.0.1
-generated: "2025-03-20T09:52:23.843211+08:00"
+generated: "2025-03-20T09:57:55.296065+08:00"
