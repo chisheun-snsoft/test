@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  game-chart:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2025-03-20T09:38:36.803073+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 90b68314563248e17b54ea81314fc96415774143c8018e6233b308715b949dd7
+    name: game-chart
+    type: application
+    urls:
+    - https://chisheun-snsoft.github.io/test/game-chart-0.0.1.tgz
+    version: 0.0.1
+generated: "2025-03-20T09:38:36.801935+08:00"
