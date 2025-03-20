@@ -1,0 +1,17 @@
+# Ignore Helm chart package files
+*.tgz
+
+# Ignore version control metadata
+.git/
+.gitignore
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Ignore temp files
+tmp/
+logs/
+*.log
